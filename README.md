@@ -10,4 +10,4 @@
 
 05， Reinforcement Learning Algorithm
 
-06, Ensemble Learning Algorithms
+06,  Ensemble Learning Algorithms
