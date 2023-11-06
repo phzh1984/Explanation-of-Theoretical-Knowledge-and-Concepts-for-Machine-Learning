@@ -11,3 +11,5 @@
 05， Reinforcement Learning Algorithm
 
 06,  Ensemble Learning Algorithms
+
+07,  Summary and Overview of Concepts in Machine Learning
