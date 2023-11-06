@@ -9,3 +9,5 @@
 04， Semi-supervised learning algorithm
 
 05， Reinforcement Learning Algorithm
+
+06, Ensemble Learning Algorithms
