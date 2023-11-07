@@ -14,6 +14,8 @@
 
 07,  Summary and Overview of Concepts in Machine Learning
 
-08， Advantages and disadvantages of regression algorithms
+08， Advantages and disadvantages of Regression algorithms
+
+09， Advantages and disadvantages of Regularization algorithms
 
 
