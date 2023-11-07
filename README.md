@@ -13,3 +13,7 @@
 06,  Ensemble Learning Algorithms
 
 07,  Summary and Overview of Concepts in Machine Learning
+
+08， Advantages and disadvantages of regression algorithms
+
+
