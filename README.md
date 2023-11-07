@@ -18,4 +18,6 @@
 
 09， Advantages and disadvantages of Regularization algorithms
 
+10， Advantages and disadvantages of Ensemble Learning algorithms
+
 
