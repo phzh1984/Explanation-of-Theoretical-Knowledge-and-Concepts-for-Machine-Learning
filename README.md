@@ -22,4 +22,6 @@
 
 11， Advantages and Disadvantages on Decision Tree Algorithms
 
+12， Dimensionality Reduction Algorithm
+
 
