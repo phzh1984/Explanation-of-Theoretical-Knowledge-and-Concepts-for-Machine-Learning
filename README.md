@@ -37,3 +37,5 @@
 18， Applicable Scenarios for Machine Learning Algorithms- Ensemble Learning
 
 19， Applicable Scenarios for Machine Learning Algorithms- Decision Tree algorithm
+
+20，Applicable Scenarios for Machine Learning Algorithms- SVM
