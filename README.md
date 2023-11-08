@@ -41,3 +41,5 @@
 20， Applicable Scenarios for Machine Learning Algorithms- SVM
 
 21， Applicable Scenarios for Machine Learning Algorithms- Dimensionality reduction algorithms
+
+22， Applicable Scenarios for Machine Learning Algorithms- Clustering algorithm
