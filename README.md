@@ -20,8 +20,9 @@
 
 10， Advantages and disadvantages of Ensemble Learning algorithms
 
-11， Advantages and Disadvantages on Decision Tree Algorithms
+11， Advantages and Disadvantages of Decision Tree Algorithms
 
-12， Dimensionality Reduction Algorithm
+12， Dimensionality Reduction Algorithms
 
+13， Clustering Algorithms
 
