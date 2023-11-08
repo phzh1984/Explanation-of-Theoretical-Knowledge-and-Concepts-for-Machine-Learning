@@ -35,3 +35,5 @@
 17， Applicable Scenarios for Machine Learning Algorithms- Regularization algorithms
 
 18， Applicable Scenarios for Machine Learning Algorithms- Ensemble Learning
+
+19， Applicable Scenarios for Machine Learning Algorithms- Decision Tree algorithm
