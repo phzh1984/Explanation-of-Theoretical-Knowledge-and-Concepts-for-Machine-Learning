@@ -29,3 +29,5 @@
 14， Artificial Neural Networks
 
 15， Deep Learning
+
+16， Applicable Scenarios for Machine Learning Algorithms- Regression algorithms
