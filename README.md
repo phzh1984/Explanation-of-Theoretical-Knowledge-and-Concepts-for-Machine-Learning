@@ -38,4 +38,6 @@
 
 19， Applicable Scenarios for Machine Learning Algorithms- Decision Tree algorithm
 
-20，Applicable Scenarios for Machine Learning Algorithms- SVM
+20， Applicable Scenarios for Machine Learning Algorithms- SVM
+
+21， Applicable Scenarios for Machine Learning Algorithms- Dimensionality reduction algorithms
