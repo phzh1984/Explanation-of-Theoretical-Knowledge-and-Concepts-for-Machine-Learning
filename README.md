@@ -33,3 +33,5 @@
 16， Applicable Scenarios for Machine Learning Algorithms- Regression algorithms
 
 17， Applicable Scenarios for Machine Learning Algorithms- Regularization algorithms
+
+18， Applicable Scenarios for Machine Learning Algorithms- Ensemble Learning
