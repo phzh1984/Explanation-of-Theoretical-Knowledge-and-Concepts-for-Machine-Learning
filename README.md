@@ -43,3 +43,5 @@
 21， Applicable Scenarios for Machine Learning Algorithms- Dimensionality reduction algorithms
 
 22， Applicable Scenarios for Machine Learning Algorithms- Clustering algorithm
+
+23， Applicable Scenarios for Machine Learning Algorithms- The Bayesian algorithm
