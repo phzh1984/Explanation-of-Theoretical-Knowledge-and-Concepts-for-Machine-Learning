@@ -45,3 +45,5 @@
 22， Applicable Scenarios for Machine Learning Algorithms- Clustering algorithm
 
 23， Applicable Scenarios for Machine Learning Algorithms- The Bayesian algorithm
+
+24， Applicable Scenarios for Machine Learning Algorithms-ANN
